@@ -1,0 +1,23 @@
+.list{
+    margin-bottom: 1rem;
+    width: 20rem;
+    padding: 0.8rem;
+    background-color: #b2f3e3;
+    border-radius: 0.3rem;
+}
+
+span.trash{
+    margin-left: 1rem;
+    color: #d11a2a;
+    cursor: pointer;
+    float: right;
+}
+span.trash:hover{
+    color: #8f0c17;
+}
+input[type="checkbox"]{
+    margin-right: 1rem;
+}
+.complete{
+    text-decoration: line-through;
+}

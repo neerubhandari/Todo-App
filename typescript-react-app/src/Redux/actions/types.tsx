@@ -1,0 +1,11 @@
+export const FETCH_TODO_SUCCESS = "FETCH_TODO_SUCCESS";
+export const FETCH_TODO_REQUEST = "FETCH_TODO_REQUEST";
+export const FETCH_TODO_FAIL = "FETCH_TODO_FAIL";
+export const FETCH_USER_SUCCESS = "FETCH_USER_SUCCESS";
+export const FETCH_USER_REQUEST = "FETCH_USER_REQUEST";
+export const FETCH_USER_FAIL = "FETCH_USER_FAIL";
+export const LOG_IN = "LOG_IN";
+export const LOG_OUT = "LOG_OUT";
+export const DATA_ADDED = "DATA_ADDED";
+export const DATA_DELETED = "DATA_DELETED";
+export const DATA_UPDATED = "DATA_UPDATED"

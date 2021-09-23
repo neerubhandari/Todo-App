@@ -1,0 +1,321 @@
+{
+  "user": [
+    {
+      "text": "dfhfgf",
+      "email": "dddd@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "text": "Neeruuu",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 4
+    },
+    {
+      "text": "Neeru",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 5
+    },
+    {
+      "text": "Neeru",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 6
+    },
+    {
+      "text": "Neeeru",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 7
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 8
+    },
+    {
+      "text": "gggg",
+      "email": "dddd@gmail.com",
+      "password": "12344",
+      "id": 9
+    },
+    {
+      "text": "Rabin",
+      "email": "pantarabin@gmail",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "text": "neeruuu",
+      "email": "dddd@gmail.com",
+      "password": "1234567",
+      "id": 12
+    },
+    {
+      "text": "Rabin",
+      "email": "niru@gmail.com",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "text": "Bhuwan",
+      "email": "bhuwan@gmail.com",
+      "password": "1234",
+      "id": 14
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 15
+    },
+    {
+      "text": "Bhuwan",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 16
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 18
+    },
+    {
+      "text": "Neeruuu",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 19
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 20
+    },
+    {
+      "text": "Niru",
+      "email": "neeeeeeeeeeeeee@gmail",
+      "password": "55555",
+      "id": 21
+    },
+    {
+      "text": "Niru",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 22
+    },
+    {
+      "text": "Niruwa",
+      "email": "dddd@gmail.com",
+      "password": "12345",
+      "id": 23
+    },
+    {
+      "text": "Bimala",
+      "email": "neeru45@gmail.com",
+      "password": "1234",
+      "id": 24
+    },
+    {
+      "text": "Bhuwan Bhandari",
+      "email": "bhuwan@gmail.com",
+      "password": "12345",
+      "id": 25
+    },
+    {
+      "text": "Nabina",
+      "email": "nabina@gmail.com",
+      "password": "1234",
+      "id": 26
+    },
+    {
+      "text": "panta",
+      "email": "kalu@gmail.com",
+      "password": "1234",
+      "id": 27
+    }
+  ],
+  "todo": [
+    {
+      "todo": "This is work",
+      "id": 7,
+      "completed": false
+    },
+    {
+      "todo": "this is new one",
+      "id": 11,
+      "completed": true
+    },
+    {
+      "todo": "walk a dog",
+      "id": 12,
+      "completed": false
+    },
+    {
+      "todo": "this is going to be little big will you able to handle this big todo",
+      "id": 13,
+      "completed": true
+    },
+    {
+      "todo": "Programming session",
+      "id": 14
+    },
+    {
+      "todo": "locus seminar",
+      "id": 15,
+      "completed": true
+    },
+    {
+      "todo": "hhhh",
+      "userid": 13,
+      "userId": "13",
+      "id": 18
+    },
+    {
+      "todo": "vvvvvvv",
+      "userid": 13,
+      "userId": "13",
+      "id": 19
+    },
+    {
+      "todo": "new",
+      "userid": 14,
+      "userId": "14",
+      "id": 22
+    },
+    {
+      "todo": "Programming Python seminar",
+      "userid": 2,
+      "userId": "2",
+      "id": 29,
+      "completed": true
+    },
+    {
+      "todo": "Do Homework",
+      "userid": 2,
+      "userId": "2",
+      "id": 30,
+      "completed": true
+    },
+    {
+      "todo": "Take a Walk",
+      "userid": 2,
+      "userId": "2",
+      "id": 31
+    },
+    {
+      "todo": "Watch Premier League",
+      "userid": 10,
+      "userId": "10",
+      "id": 32,
+      "completed": false
+    },
+    {
+      "todo": "Complete Assignment",
+      "userid": 10,
+      "userId": "10",
+      "id": 33,
+      "completed": false
+    },
+    {
+      "todo": "Nirus todo",
+      "userid": 11,
+      "userId": "11",
+      "id": 34
+    },
+    {
+      "todo": "Cook food",
+      "userid": 16,
+      "userId": "16",
+      "id": 35
+    },
+    {
+      "todo": "Do work",
+      "userid": 16,
+      "userId": "16",
+      "id": 36
+    },
+    {
+      "todo": "Play Card",
+      "userid": 24,
+      "userId": "24",
+      "id": 37
+    },
+    {
+      "todo": "Household Work",
+      "userid": 24,
+      "userId": "24",
+      "id": 38
+    },
+    {
+      "todo": "play ludo",
+      "userid": 25,
+      "userId": "25",
+      "id": 40
+    },
+    {
+      "todo": "Send invitation",
+      "userid": 25,
+      "userId": "25",
+      "id": 41
+    },
+    {
+      "todo": "bimala ko ho",
+      "userid": 24,
+      "userId": "24",
+      "id": 42
+    },
+    {
+      "todo": "this",
+      "userid": 27,
+      "userId": "27",
+      "id": 45
+    },
+    {
+      "todo": "newwn",
+      "userId": "27",
+      "id": 46,
+      "completed": true
+    },
+    {
+      "todo": "heerrrr",
+      "completed": true,
+      "userId": "27",
+      "id": 47
+    },
+    {
+      "todo": "Prepare for BDS",
+      "completed": false,
+      "userId": "26",
+      "id": 48
+    }
+  ]
+}

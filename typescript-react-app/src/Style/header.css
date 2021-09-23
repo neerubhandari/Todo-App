@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 3rem;
+    background: #2AAA8A;
+    min-height: 10vh;
+    padding: 0 8rem;
+    flex-wrap: wrap;
+   
+  }
+  .header__logo h1{
+    font-family: cursive;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+  }
+  .header__button{
+      display: flex;
+  }
+  .header__button button {
+    padding: 0.1rem 2.8rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button.header__login:hover {
+    background-color: #fff;
+    color: #2AAA8A;
+  }
+  button.header__logout:hover {
+    background-color: white;
+    color: #2AAA8A;
+  }
+  button.header__logout {
+    margin-left: 0.9rem;
+    color: white;
+    border: 1px solid white;
+  }
+  button.header__login {
+    color: white;
+    border: 1px solid white;
+  }
+  /* header div end  */
